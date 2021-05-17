@@ -471,9 +471,9 @@ p, ul.text-list {
 }
 .section--head {
   margin: 0;
-  background: #EEE;
+  background: #FFF;
   /*background: linear-gradient(180deg, #eee 0%,#fff 100%);*/
-  padding: 132px 0;
+  padding: 102px 0;
 }
 
 
