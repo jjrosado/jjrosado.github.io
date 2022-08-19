@@ -34,7 +34,16 @@ body {
   -moz-font-feature-settings: "liga", "kern";
 
 }
-
+blockquote {
+    font-family: Cambria,Georgia,serif;
+    font-size: 16px;
+    background: #f9f9f9;
+    border-left: 5px solid #ccc;
+    margin: 1.5em 10px;
+    line-height: 1.7em;
+    padding: 1.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
 
 
 /*code {
