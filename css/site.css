@@ -418,7 +418,28 @@ a.twitter-nav-link {
   margin-right: 0.1em;
 }
 
-
+a.github-nav-link {
+  border: 0;
+  margin: 0 0.2em;
+}
+.github-nav-link span {
+  border-bottom: 1px solid #92ABCD;
+}
+.navigation a:hover,
+.github-nav-link:hover span {
+  border-bottom-color: #C00;
+}
+.github-nav-link:before {
+  content: '';
+  background: url('https://github.com/git.png');
+  display: inline-block;
+  width: 0.8em;
+  height: 0.8em;
+  background-size: 0.7em 0.7em;
+  background-repeat: no-repeat;
+  background-position: 0 0.1em;
+  margin-right: 0.1em;
+}
 
 
 h2 {
