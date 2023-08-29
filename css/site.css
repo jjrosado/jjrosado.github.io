@@ -408,7 +408,7 @@ a.twitter-nav-link {
 }
 .twitter-nav-link:before {
   content: '';
-  background: url('../images/twitter.svg');
+  background: url('../images/X_logo.png');
   display: inline-block;
   width: 0.8em;
   height: 0.8em;
