@@ -418,12 +418,37 @@ a.twitter-nav-link {
   margin-right: 0.1em;
 }
 
+
+a.bsky-nav-link {
+  border: 0;
+  margin: 0 0.2em;
+}
+.bsky-nav-link span {
+  border-bottom: 1px solid #92ABCD;
+}
+.navigation a:hover,
+.bsky-nav-link:hover span {
+  border-bottom-color: #C00;
+}
+.bsky-nav-link:before {
+  content: '';
+  background: url('../images/Bluesky_App_Icon.png');
+  display: inline-block;
+  width: 0.9em;
+  height: 0.9em;
+  background-size: 0.7em 0.7em;
+  background-repeat: no-repeat;
+  background-position: 0 0.2em;
+  margin-right: 0.1em;
+}
+
+
 a.github-nav-link {
   border: 0;
   margin: 0 0.2em;
 }
 .github-nav-link span {
-  border-bottom: 1px solid #92ABCD;
+  border-bottom: 0px;
 }
 .navigation a:hover,
 .github-nav-link:hover span {
