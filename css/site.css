@@ -466,6 +466,29 @@ a.github-nav-link {
   margin-right: 0.1em;
 }
 
+a.ud-nav-link {
+  border: 0;
+  margin: 0 0.2em;
+}
+.ud-nav-link span {
+  border-bottom: 1px solid #92ABCD;
+}
+.navigation a:hover,
+.ud-nav-link:hover span {
+  border-bottom-color: #C00;
+}
+.ud-nav-link:before {
+  content: '';
+  background: url('../images/Unstoppable-domains-logo.png');
+  display: inline-block;
+  width: 0.9em;
+  height: 0.9em;
+  background-size: 0.7em 0.7em;
+  background-repeat: no-repeat;
+  background-position: 0 0.2em;
+  margin-right: 0.1em;
+}
+
 
 h2 {
   font-size: 32px;
