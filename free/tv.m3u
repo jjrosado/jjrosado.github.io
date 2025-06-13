@@ -31,9 +31,19 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0,Al Jazeera Qatar
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,Eco TV (720p)
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:0,ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:0,ESPNews 
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:0,UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:0,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0,Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:0,MovieBox (1080p)
+https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
