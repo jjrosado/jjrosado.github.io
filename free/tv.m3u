@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,CNN Internacional
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:0,America TeVe USA
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:0,FOX Live Now USA EN
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0,ABC News USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,CBS News USA EN
@@ -13,3 +13,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:0,Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:0,Red Bull TV EN
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0,Al Jazeera Qatar EN
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
