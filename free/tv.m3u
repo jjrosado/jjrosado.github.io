@@ -17,9 +17,9 @@ https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0, tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN Internacional
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:0, tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC News USA
+#EXTINF:0, tvg-id="ABCNews.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0, tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="News",CBS News USA
+#EXTINF:0, tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="News",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0, tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-logo="https://i.imgur.com/0GT22wd.png" group-title="Entertainment",Cheddar USA
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
