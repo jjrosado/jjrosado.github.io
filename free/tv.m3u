@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0, tvg-id="ABC.6.WPVI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 6 News WPVI (Philadelphia PA) (720p)
+#EXTINF:0, tvg-id="ABC.6.WPVI.us" tvg-name="ABC 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 6 News WPVI (Philadelphia PA)
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:0,ABC 7 News WLS (Chicago IL) (720p)
+#EXTINF:0, tvg-id="ABC.7.WLS.us" tvg-name="ABC 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 7 News WLS (Chicago IL)
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-#EXTINF:0,ABC 13 News KTRK TV 
+#EXTINF:0, tvg-id="ABC.13.KTRK.us" tvg-name="ABC 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 13 News KTRK TV 
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-#EXTINF:0,ABC 10 KXTV (Sacramento CA)
+#EXTINF:0, tvg-id="ABC.10.KXTV.us" tvg-name="ABC 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 10 News KXTV (Sacramento CA)
 https://livevideo.tegnadigital.com/kxtv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KXTV/elvs/live.m3u8
-#EXTINF:0,ABC 11 News WTVD (Raleigh-Durham NC) (720p)
+#EXTINF:0, tvg-id="ABC.11.WTVD.us" tvg-name="ABC 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 11 News WTVD (Raleigh-Durham NC)
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:0,ABC 23 KERO (Bakersfield CA) (720p)
+#EXTINF:0, tvg-id="ABC.23.KERO.us" tvg-name="ABC 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 23 News KERO (Bakersfield CA)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:0,Telemundo Noticias Texas
 https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
