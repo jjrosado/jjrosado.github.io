@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:0, tvg-id="ABC.6.WPVI.us" tvg-name="ABC 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 6 News WPVI (Philadelphia PA)
+#EXTINF:0, tvg-id="WPVIDT1247News.us" tvg-name="WPVI-DT1 24/7 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 6 News WPVI (Philadelphia PA)
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:0, tvg-id="ABC.7.WLS.us" tvg-name="ABC 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 7 News WLS (Chicago IL)
+#EXTINF:0, tvg-id="WLSDT1247News.us" tvg-name="WLS-DT1 24/7 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 7 News WLS (Chicago IL)
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-#EXTINF:0, tvg-id="ABC.13.KTRK.us" tvg-name="ABC 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 13 News KTRK TV 
+#EXTINF:0, tvg-id="KTRKDT1.us" tvg-name="KTRK-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 13 News KTRK TV 
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-#EXTINF:0, tvg-id="ABC.10.KXTV.us" tvg-name="ABC 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 10 News KXTV (Sacramento CA)
+#EXTINF:0, tvg-id="KXTVDT1.us" tvg-name="KXTV-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 10 News KXTV (Sacramento CA)
 https://livevideo.tegnadigital.com/kxtv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KXTV/elvs/live.m3u8
-#EXTINF:0, tvg-id="ABC.11.WTVD.us" tvg-name="ABC 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 11 News WTVD (Raleigh-Durham NC)
+#EXTINF:0, tvg-id="WTVDDT1247News.us" tvg-name="WTVD-DT1 24/7 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 11 News WTVD (Raleigh-Durham NC)
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:0, tvg-id="ABC.23.KERO.us" tvg-name="ABC 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 23 News KERO (Bakersfield CA)
+#EXTINF:0, tvg-id="KERODT1.us" tvg-name="KERO-DT1" tvg-logo="https://i.imgur.com/CMANZWk.png" group-title="News",ABC 23 News KERO (Bakersfield CA)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:0,Telemundo Noticias Texas
+#EXTINF:0, tvg-id="KTLELD1.us" tvg-name="KTLE-LD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="News",Telemundo Noticias Texas
 https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
-#EXTINF:0,CNN en Español
+#EXTINF:0, tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,CNN Internacional
+#EXTINF:0, tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN Internacional
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:0, tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC News USA
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0, tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="News",CBS News USA
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0,America TeVe USA
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:0,ABC News USA
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,CBS News USA
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0,Cheddar USA
+#EXTINF:0, tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-logo="https://i.imgur.com/0GT22wd.png" group-title="Entertainment",Cheddar USA
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-#EXTINF:0,Bloomberg
+#EXTINF:0, tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:0 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Qatar
+#EXTINF:0, tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Qatar
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Español (1080p)
+#EXTINF:0, tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0,Eco TV (720p)
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-#EXTINF:1,Red Bull TV 
+#EXTINF:1, tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sports",Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U
+#EXTINF:1, tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:1 tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="News;Sports",ESPNews 
+#EXTINF:1, tvg-id="ESPNews.us" tvg-name="ESPN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="Sports",ESPNews 
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" group-title="Sports",UFC
+#EXTINF:1, tvg-id="UFC" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/250px-UFC_Logo.svg.png" group-title="Sports",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:1,TNT East
+#EXTINF:1, tvg-id="TNT.East.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Entertainment",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:1,TNT West
+#EXTINF:1, tvg-id="TNT.West.us" tvg-name="TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Entertainment",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:2 tvg-id="TMZ.us" tvg-logo="https://i.imgur.com/eLIe7Va.png" group-title="Entertainment",TMZ 
+#EXTINF:2, tvg-id="TMZ.us" tvg-logo="https://i.imgur.com/eLIe7Va.png" group-title="Entertainment",TMZ 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
 #EXTINF:2,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
