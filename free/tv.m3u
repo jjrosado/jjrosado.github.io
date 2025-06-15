@@ -21,8 +21,6 @@ https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0, tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="News",CBS News USA
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0,America TeVe USA
-https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:0, tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-logo="https://i.imgur.com/0GT22wd.png" group-title="Entertainment",Cheddar USA
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:0, tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg
@@ -31,14 +29,14 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0, tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0,Eco TV
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:1, tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sports",Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:1, tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:1, tvg-id="ESPNews.us" tvg-name="ESPN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="Sports",ESPNews 
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Español
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:1, tvg-id="UFC" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/250px-UFC_Logo.svg.png" group-title="Sports",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:1, tvg-id="TNT.East.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Entertainment",TNT East
@@ -87,15 +85,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:4 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="PR",Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:4 tvg-id="WRUADT1.pr" tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="PR",Tiva TV
-https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
+#EXTINF:6 tvg-id="WIPRDT1.pr" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="PR",WIPR Canal 6
+https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:4 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="PR",Boricua TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:4 tvg-id="Zeta93.pr" tvg-logo="https://i.ibb.co/KzqWLZR/images-57.jpg" group-title="PR",Zeta 93
-https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
-#EXTINF:4 tvg-id="NotiUnoTV.pr" tvg-logo="https://i.imgur.com/qNdywBT.png" group-title="PR",NotiUno TV
-https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8
-#EXTINF:4 tvg-id="NuevaVidaFM.pr" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" group-title="PR",Nueva Vida TV
-https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:4 tvg-id="RadioIslaTV.pr" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" group-title="PR",Radio Isla
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
