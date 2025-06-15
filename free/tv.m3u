@@ -81,13 +81,17 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:3, group-title="Music",VH1+ Rock Italy
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:4 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="PR",Telemundo PR
+#EXTINF:4, tvg-id="WKAQDT1.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="PR",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:4 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="PR",Punto 2
+#EXTINF:4, tvg-id="WKAQDT2.pr" tvg-name="Punto 2" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="PR",Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:6 tvg-id="WIPRDT1.pr" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="PR",WIPR Canal 6
+#EXTINF:4, tvg-id="WAPADT1.us" tvg-name="Wapa" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="PR",WAPA
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+#EXTINF:4, tvg-id="WAPADT2.us" tvg-name="Wapa Deportes" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="PR", WAPA Deportes
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+#EXTINF:4 tvg-id="WIPRDT1.pr" tvg-name="WIPR" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="PR",WIPR Canal 6
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
-#EXTINF:4 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="PR",Boricua TV
+#EXTINF:4 tvg-id="WWXYDT1.pr" tvg-name="Boricua TV" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="PR",Boricua TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:4 tvg-id="RadioIslaTV.pr" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" group-title="PR",Radio Isla
+#EXTINF:4 tvg-id="RadioIslaTV.pr"  tvg-name="Radio Isla 1320" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" group-title="PR",Radio Isla
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
